@@ -1,1 +1,1 @@
-Breakdown of the CSS code to get the animation to work.
+Getting to understand CSS animation and how it works.
